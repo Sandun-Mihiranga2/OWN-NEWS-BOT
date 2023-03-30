@@ -24,13 +24,13 @@ const {sample} = require('lodash')
     return !color ? chalk.green(text) : chalk.keyword(color)(text)
 }
 global.NEWS_ON = process.env.NEWS_ON || false
-global.owner = ['94775512050']
-global.no_block = ['94775512050','94715166712']
+global.owner = ['94713438876']
+global.no_block = ['94713438876','94767003520']
 //global.delayy = 2000 
-global.bot_number = '14242762536'
-global.newsjid = '120363070389299957@g.us'
+global.bot_number = '16078004580'
+global.newsjid = '120363099024357553@g.us'
 global.sessionName = 'session'
-global.news_footer = `\n\n*Group Link ☛ https://chat.whatsapp.com/IvnbJyIhjBd4dEbZ1UvME6*\n\n 🇱🇰 *ꜱʟ ɴᴇᴡꜱ ᴜᴘᴅᴀᴛᴇ ᴄᴇɴᴛᴇʀ* 🇱🇰`
+global.news_footer = `\n\n*Group Link ☛ https://chat.whatsapp.com/HmRQu2wOeb474dLIRmtVfc*\n\n 🇱🇰 *ꜱʟ ɴᴇᴡꜱ ᴜᴘᴅᴀᴛᴇ* 🇱🇰`
 global.image_url = 'https://telegra.ph/file/9eabf9372eca9bacded28.jpg'
 global.alive_message = 'මම නිවුස් බොටා ඉන්බොක්ස් ආවට වැඩක් නැ කිසිම කමාන්ඩ් 1ක් නැ'
 global.sisula_code = '82darkalpha' 
