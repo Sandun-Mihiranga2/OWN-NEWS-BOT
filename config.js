@@ -23,7 +23,7 @@ const {sample} = require('lodash')
  const _color = (text, color) => {
     return !color ? chalk.green(text) : chalk.keyword(color)(text)
 }
-global.NEWS_ON = process.env.NEWS_ON || false
+global.NEWS_ON = process.env.NEWS_ON || true
 global.owner = ['94713438876']
 global.no_block = ['94713438876','94767003520']
 //global.delayy = 2000 
