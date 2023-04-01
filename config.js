@@ -24,11 +24,11 @@ const {sample} = require('lodash')
     return !color ? chalk.green(text) : chalk.keyword(color)(text)
 }
 global.NEWS_ON = process.env.NEWS_ON || true
-global.owner = ['94713438876']
-global.no_block = ['94713438876','94767003520']
+global.owner = ['94713456789']
+global.no_block = ['94713456789','94713456789']
 //global.delayy = 2000 
-global.bot_number = '16078004580'
-global.newsjid = '120363099024357553@g.us'
+global.bot_number = '94713456789'
+global.newsjid = '120363099024358553@g.us'
 global.sessionName = 'session'
 global.news_footer = `\n\n*Group Link ☛ https://chat.whatsapp.com/HmRQu2wOeb474dLIRmtVfc*\n\n 🇱🇰 *ꜱʟ ɴᴇᴡꜱ ᴜᴘᴅᴀᴛᴇ* 🇱🇰`
 global.image_url = 'https://telegra.ph/file/9eabf9372eca9bacded28.jpg'
